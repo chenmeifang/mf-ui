@@ -1,5 +1,8 @@
 # mf-ui
 
+### packages：用于存放所有的组件
+### examples：用于进行测试，把src改成examples
+
 ## Project setup
 ```
 npm install
